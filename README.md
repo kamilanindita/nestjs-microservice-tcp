@@ -5,8 +5,10 @@
 1. Docker
 2. DockerDocker-Compose
 
-## Dependencies (Image)
-- node:16-alpine3.16
+## Dependencies
+- node:16-alpine3.16 (Image)
+- nestjs
+- @nestjs/microservices
 
 ## Features/Modules/Services
 - Api gateway
