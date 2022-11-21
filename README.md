@@ -1,6 +1,10 @@
 # nestjs-microservice-tcp
 [Nestjs microservice](https://docs.nestjs.com/microservices/basics) use the TCP transport layer by default.
 
+Architecture with TCP transport in this project
+
+![Architecture Microservices in Nestjs](./architecture.png?raw=true)
+
 ## Requirements
 1. Docker
 2. DockerDocker-Compose
